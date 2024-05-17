@@ -1,6 +1,7 @@
 # Exploring Caching Approaches for Performance and Scalability
 * Caching makes applications faster and more efficient by storing frequently used data closer to where it's needed, reducing the time to access this data. Here's an overview of different types of caching, along with their advantages and disadvantages.
-Types of Caching :
+* 
+### Types of Caching :
 ### In-Memory Caching : Stores data in the computer's RAM,making access very fast.
 ### Distributed Caching : Uses multiple servers to store data, ensuring reliability and scalability.
 ### Client-Side Caching : Saves data on the users device,like a web browser.
